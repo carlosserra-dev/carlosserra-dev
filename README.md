@@ -1,6 +1,6 @@
 # Carlos Serra
 
-**AI Developer & Automation Engineer (em transição) | Full Stack — Next.js / Node.js | Integração de LLMs em produção**
+**Engenheiro de IA Júnior | Full Stack — Next.js / Node.js | Integração de LLMs em produção**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-serra/)
 [![Site](https://img.shields.io/badge/Site-serra--dev-000000?style=flat&logo=vercel&logoColor=white)](https://serra-dev-next.vercel.app/)

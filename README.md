@@ -8,8 +8,6 @@
 
 ## Sobre
 
-## Sobre
-
 Engenheiro de IA Júnior na Ideatore Americas, com experiência em desenvolvimento full stack e automação com IA aplicada. Antes de programar, trabalhei com SEO técnico, GEO/AEO e analytics — hoje aplico essa lógica de dados e otimização também na engenharia dos meus próprios sistemas.
 
 - Trabalhando em: automação com IA aplicada a fluxos internos e produtos próprios

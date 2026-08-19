@@ -1,6 +1,6 @@
 ﻿# Carlos Serra
 
-**Engenheiro de IA JÃºnior | Full Stack â€” Next.js / Node.js | IntegraÃ§Ã£o de LLMs em produÃ§Ã£o**
+**Engenheiro de IA Júnior | Full Stack — Next.js / Node.js | Integração de LLMs em produção**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-augusto-serra/)
 [![Site](https://img.shields.io/badge/Site-serra--dev-000000?style=flat&logo=vercel&logoColor=white)](https://serra-dev-next.vercel.app/)
@@ -8,9 +8,9 @@
 
 ## Sobre
 
-Engenheiro de IA JÃºnior na Ideatore Americas, com experiÃªncia em desenvolvimento full stack e automaÃ§Ã£o com IA aplicada. Antes de programar, trabalhei com SEO tÃ©cnico, GEO/AEO e analytics â€” hoje aplico essa lÃ³gica de dados e otimizaÃ§Ã£o tambÃ©m na engenharia dos meus prÃ³prios sistemas.
+Engenheiro de IA Júnior na Ideatore Americas, com experiência em desenvolvimento full stack e automação com IA aplicada. Antes de programar, trabalhei com SEO técnico, GEO/AEO e analytics — hoje aplico essa lógica de dados e otimização também na engenharia dos meus próprios sistemas.
 
-- Trabalhando em: automaÃ§Ã£o com IA aplicada a fluxos internos e produtos prÃ³prios
+- Trabalhando em: automação com IA aplicada a fluxos internos e produtos próprios
 - Estudando: arquitetura de plataformas de IA (RAG, AI Gateway, LLMOps, guardrails), Spec-Driven Development
 
 ## Stack
@@ -35,16 +35,15 @@ Engenheiro de IA JÃºnior na Ideatore Americas, com experiÃªncia em desenvolv
 
 ## Projetos em destaque
 
-| Projeto | DescriÃ§Ã£o | Stack |
+| Projeto | Descrição | Stack |
 |---|---|---|
-| Agentes de IA (Ideatore) *(privado)* | Agentes de geraÃ§Ã£o de conteÃºdo, e-mail, landing pages e relatÃ³rios â€” automatizam fluxo de trabalho da equipe. Um jÃ¡ em produÃ§Ã£o, os demais em refinamento. | Node.js, Express, API Anthropic, MCP |
-| [zac-pwa](https://github.com/carlosserra-dev/zac-pwa) | PWA de controle de gastos domÃ©sticos, em produÃ§Ã£o | Next.js 16, TypeScript, Tailwind, Supabase |
-| [serra-dev-next](https://github.com/carlosserra-dev/serra-dev-next) | Site pessoal â€” projeto de aprendizado full stack | Next.js, TypeScript, Tailwind, Framer Motion, Canvas API |
-| [projeto-engenharia](https://github.com/carlosserra-dev/projeto-engenharia) | Plataforma para centralizar gestÃ£o de obras (contratos, orÃ§amento, compras, notas fiscais) | TypeScript |
-| [serra-dev](https://github.com/carlosserra-dev/serra-dev) | Primeira versÃ£o do site pessoal | HTML, CSS |
+| Agentes de IA (Ideatore) *(privado)* | Agentes de geração de conteúdo, e-mail, landing pages e relatórios — automatizam fluxo de trabalho da equipe. Um já em produção, os demais em refinamento. | Node.js, Express, API Anthropic, MCP |
+| [zac-pwa](https://github.com/carlosserra-dev/zac-pwa) | PWA de controle de gastos domésticos, em produção | Next.js 16, TypeScript, Tailwind, Supabase |
+| [serra-dev-next](https://github.com/carlosserra-dev/serra-dev-next) | Site pessoal — projeto de aprendizado full stack | Next.js, TypeScript, Tailwind, Framer Motion, Canvas API |
+| [projeto-engenharia](https://github.com/carlosserra-dev/projeto-engenharia) | SaaS para centralizar gestão de obras — contratos, orçamento e custos, compras e suprimentos, notas fiscais | TypeScript |
+| [serra-dev](https://github.com/carlosserra-dev/serra-dev) | Primeira versão do site pessoal | HTML, CSS |
 | [kaju-padaria-bistro-site](https://github.com/carlosserra-dev/kaju-padaria-bistro-site) | Site institucional para cliente | HTML |
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/carlos-augusto-serra/) Â· [Site](https://serra-dev-next.vercel.app/) Â· [carlos.a.serra.dev@gmail.com](mailto:carlos.a.serra.dev@gmail.com)
-
+[LinkedIn](https://www.linkedin.com/in/carlos-augusto-serra/) · [Site](https://serra-dev-next.vercel.app/) · [carlos.a.serra.dev@gmail.com](mailto:carlos.a.serra.dev@gmail.com)

@@ -8,13 +8,12 @@
 
 ## Sobre
 
-Digital Analyst na Ideatore Americas, desenvolvedor full stack com foco em automação e IA aplicada. Agentes de IA em desenvolvimento na empresa — geração de landing pages e thank you pages, e-mail, relatórios e o de artigos de blog, que já está em produção e 100% funcional; os outros três seguem em refinamento. Também tenho projetos próprios em andamento: um PWA de controle financeiro e uma plataforma para centralizar gestão de obras de engenharia civil.
+Digital Analyst na Ideatore Americas, desenvolvedor full stack com foco em automação e IA aplicada. Tenho 4 agentes de IA em desenvolvimento na empresa — geração de landing pages e thank you pages, e-mail, relatórios e o de artigos de blog, que já está em produção e 100% funcional; os outros três seguem em refinamento. Também tenho projetos próprios em andamento: um PWA de controle financeiro e uma plataforma para centralizar gestão de obras de engenharia civil.
 
 Antes de programar, trabalhei com SEO técnico, GEO/AEO e analytics. Hoje aplico essa lógica de dados e otimização também na engenharia dos meus próprios sistemas.
 
 - Trabalhando em: refinamento dos agentes de IA da Ideatore (LP/TKY, e-mail, relatórios), PWA de controle de gastos (ZAC) e plataforma de centralização de gestão de obras
 - Estudando: arquitetura de plataformas de IA (RAG, AI Gateway, LLMOps, guardrails), Spec-Driven Development
-- Objetivo: Aplicando essa experiência full stack + IA em produção em projetos cada vez maiores."
 
 ## Stack
 

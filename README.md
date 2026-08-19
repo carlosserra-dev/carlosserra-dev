@@ -8,11 +8,11 @@
 
 ## Sobre
 
-Digital Analyst na Ideatore Americas, desenvolvedor full stack com foco em automação e IA aplicada. Tenho 4 agentes de IA em desenvolvimento na empresa — geração de landing pages e thank you pages, e-mail, relatórios e o de artigos de blog, que já está em produção e 100% funcional; os outros três seguem em refinamento. Também tenho projetos próprios em andamento: um PWA de controle financeiro e uma plataforma para centralizar gestão de obras de engenharia civil.
+## Sobre
 
-Antes de programar, trabalhei com SEO técnico, GEO/AEO e analytics. Hoje aplico essa lógica de dados e otimização também na engenharia dos meus próprios sistemas.
+Engenheiro de IA Júnior na Ideatore Americas, com experiência em desenvolvimento full stack e automação com IA aplicada. Antes de programar, trabalhei com SEO técnico, GEO/AEO e analytics — hoje aplico essa lógica de dados e otimização também na engenharia dos meus próprios sistemas.
 
-- Trabalhando em: refinamento dos agentes de IA da Ideatore (LP/TKY, e-mail, relatórios), PWA de controle de gastos (ZAC) e plataforma de centralização de gestão de obras
+- Trabalhando em: automação com IA aplicada a fluxos internos e produtos próprios
 - Estudando: arquitetura de plataformas de IA (RAG, AI Gateway, LLMOps, guardrails), Spec-Driven Development
 
 ## Stack
@@ -39,6 +39,7 @@ Antes de programar, trabalhei com SEO técnico, GEO/AEO e analytics. Hoje aplico
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| Agentes de IA (Ideatore) *(privado)* | Agentes de geração de conteúdo, e-mail, landing pages e relatórios — automatizam fluxo de trabalho da equipe. Um já em produção, os demais em refinamento. | Node.js, Express, API Anthropic, MCP |
 | [zac-pwa](https://github.com/carlosserra-dev/zac-pwa) | PWA de controle de gastos domésticos, em produção | Next.js 16, TypeScript, Tailwind, Supabase |
 | [serra-dev-next](https://github.com/carlosserra-dev/serra-dev-next) | Site pessoal — projeto de aprendizado full stack | Next.js, TypeScript, Tailwind, Framer Motion, Canvas API |
 | [projeto-engenharia](https://github.com/carlosserra-dev/projeto-engenharia) | Plataforma para centralizar gestão de obras (contratos, orçamento, compras, notas fiscais) | TypeScript |

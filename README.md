@@ -13,7 +13,7 @@ Desenvolvo IA e web na TD SYNNEX, em Ribeirão Preto. Antes disso, na Ideatore A
 Comecei em SEO técnico, GEO/AEO e analytics, e levei essa cabeça de dados para a engenharia: meço o que construo, valido a saída dos modelos e cuido do custo de cada chamada.
 
 - Trabalhando em: agentes de IA aplicados a fluxos de marketing e produtos próprios
-- Estudando: Azure AI (trilha AI-103), arquitetura de plataformas de IA (RAG, AI Gateway, LLMOps, guardrails) e Spec-Driven Development
+- Azure AI (trilha AI-103), arquitetura de plataformas de IA (RAG, AI Gateway, LLMOps, guardrails) e Spec-Driven Development
 
 ## Stack
 
